@@ -1,0 +1,2 @@
+# AternosAFKBot
+AternosAFKBot
